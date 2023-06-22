@@ -1,0 +1,4 @@
+repository "StickTrip@Kiki_Games_Tech@cloud"
+  path "/"
+    br "/main"
+    co "/main"
